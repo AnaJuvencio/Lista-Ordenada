@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1650991914 source:c:\users\cliente\documents\lista_ordenada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaOrdenada.h"
+
+1650992008 c:\users\cliente\documents\lista_ordenada\listaordenada.h
+
+1650991948 source:c:\users\cliente\documents\lista_ordenada\listaordenada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaOrdenada.h"
+
+1651586214 source:c:\users\cliente\desktop\lista_ordenada\listaordenada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaOrdenada.h"
+
+1651586190 c:\users\cliente\desktop\lista_ordenada\listaordenada.h
+
+1651541409 source:c:\users\cliente\desktop\lista_ordenada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaOrdenada.h"
+
